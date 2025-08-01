@@ -12,7 +12,7 @@ I am a fourth-year Ph.D. student in the Department of Mathematics at National Un
 My research focuses on developing efficient, robust, and scalable algorithms for large-scale optimization problems. I am currently working on solving convex relaxations of nonconvex models that arise in engineering, scientific computing, and machine learning. My interests include:
 - Semidefinite programming
 - Doubly nonnegative relaxation
-- Matrix Optimization
+- Matrix optimization
 - Riemannian optimization
 
 Publications

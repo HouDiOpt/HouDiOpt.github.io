@@ -19,10 +19,10 @@ Publications
 ------
 1. **RiNNAL+: a Riemannian ALM Solver for SDP-RLT Relaxations of Mixed-Binary Quadratic Programs**
 <br>Di Hou, Tianyun Tang, Kim-Chuan Toh.
-[[arXiv]](https://arxiv.org/abs/2507.13776) 
+[[arXiv]](https://arxiv.org/abs/2507.13776) [[code]](https://github.com/HouDiOpt/RiNNALplus)
 1. **A low-rank augmented Lagrangian method for doubly nonnegative relaxations of mixed-binary quadratic programs**
 <br>Di Hou, Tianyun Tang, Kim-Chuan Toh.
-[[arXiv]](https://arxiv.org/abs/2502.13849) 
+[[arXiv]](https://arxiv.org/abs/2502.13849) [[code]](https://github.com/HouDiOpt/RiNNAL)
 1. **A sparse smoothing Newton method for solving discrete optimal transport problems**
 <br>Di Hou, Ling Liang, Kim-Chuan Toh
 <br>ACM Transactions on Mathematical Software 50, no. 3 (2024): 1–26. 

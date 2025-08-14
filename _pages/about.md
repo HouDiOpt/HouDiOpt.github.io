@@ -26,7 +26,7 @@ Publications
 1. **A sparse smoothing Newton method for solving discrete optimal transport problems**
 <br>Di Hou, Ling Liang, Kim-Chuan Toh
 <br>ACM Transactions on Mathematical Software 50, no. 3 (2024): 1–26. 
-[[arXiv]](https://arxiv.org/abs/2311.06448) [[TOMS]](https://dl.acm.org/doi/full/10.1145/3688800) [[slides]](/files/SqSN_pre.pdf)
+<br>[[arXiv]](https://arxiv.org/abs/2311.06448) [[TOMS]](https://dl.acm.org/doi/full/10.1145/3688800) [[slides]](/files/SqSN_pre.pdf)
 1. **Block Mirror Stochastic Gradient Method For Stochastic Optimization**
 <br>Jinda Yang, Haiming Song, Xinxin Li, Di Hou
 <br>Journal of Scientific Computing 94, no. 3 (2023): 69. 

@@ -22,7 +22,7 @@ Publications
 <br>[[arXiv]](https://arxiv.org/abs/2507.13776) [[code]](https://github.com/HouDiOpt/RiNNALplus) [[slides]](/files/RiNNALplus_ICCOPT.pdf)
 1. **A low-rank augmented Lagrangian method for doubly nonnegative relaxations of mixed-binary quadratic programs**
 <br>Di Hou, Tianyun Tang, Kim-Chuan Toh.
-<br>Operations Research.
+<br>Operations Research, accepted.
 <br>[[arXiv]](https://arxiv.org/abs/2502.13849) [[code]](https://github.com/HouDiOpt/RiNNAL) [[slides]](/files/RiNNAL.pdf)
 1. **A sparse smoothing Newton method for solving discrete optimal transport problems**
 <br>Di Hou, Ling Liang, Kim-Chuan Toh,

@@ -19,18 +19,19 @@ Publications
 ------
 1. **RiNNAL+: a Riemannian ALM Solver for SDP-RLT Relaxations of Mixed-Binary Quadratic Programs**
 <br>Di Hou, Tianyun Tang, Kim-Chuan Toh.
-[[arXiv]](https://arxiv.org/abs/2507.13776) [[code]](https://github.com/HouDiOpt/RiNNALplus) [[slides]](/files/RiNNALplus_ICCOPT.pdf)
+<br>[[arXiv]](https://arxiv.org/abs/2507.13776) [[code]](https://github.com/HouDiOpt/RiNNALplus) [[slides]](/files/RiNNALplus_ICCOPT.pdf)
 1. **A low-rank augmented Lagrangian method for doubly nonnegative relaxations of mixed-binary quadratic programs**
 <br>Di Hou, Tianyun Tang, Kim-Chuan Toh.
-<br>Operations Research, [[arXiv]](https://arxiv.org/abs/2502.13849) [[code]](https://github.com/HouDiOpt/RiNNAL) [[slides]](/files/RiNNAL.pdf)
+<br>Operations Research.
+<br>[[arXiv]](https://arxiv.org/abs/2502.13849) [[code]](https://github.com/HouDiOpt/RiNNAL) [[slides]](/files/RiNNAL.pdf)
 1. **A sparse smoothing Newton method for solving discrete optimal transport problems**
-<br>Di Hou, Ling Liang, Kim-Chuan Toh
+<br>Di Hou, Ling Liang, Kim-Chuan Toh,
 <br>ACM Transactions on Mathematical Software 50, no. 3 (2024): 1–26. 
 <br>[[arXiv]](https://arxiv.org/abs/2311.06448) [[TOMS]](https://dl.acm.org/doi/full/10.1145/3688800) [[slides]](/files/SqSN_pre.pdf)
 1. **Block Mirror Stochastic Gradient Method For Stochastic Optimization**
 <br>Jinda Yang, Haiming Song, Xinxin Li, Di Hou
 <br>Journal of Scientific Computing 94, no. 3 (2023): 69. 
-[[JSC]](https://link.springer.com/article/10.1007/s10915-023-02110-y)
+<br>[[JSC]](https://link.springer.com/article/10.1007/s10915-023-02110-y)
 
 Talks
 ------

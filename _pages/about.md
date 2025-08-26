@@ -49,7 +49,7 @@ Talks
 Teaching
 ------
 At NUS, I was a TA for:
-- DSA2102 Essential Data Analytics Tools: Numerical Computation  -- Fall 2025.
+- DSA2102 Essential Data Analytics Tools: Numerical Computation  -- Fall 2025. (Merit Award)
 - MA3236 Non-Linear Programming -- Spring 2024. (Merit Award)
 - DSA3102 Essential Data Analytics Tools: Convex Optimisation -- Fall 2024. (Merit Award)
 - DSA3102 Essential Data Analytics Tools: Convex Optimisation -- Spring 2023.

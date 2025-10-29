@@ -38,15 +38,6 @@ Talks
 - RiNNAL+: a Riemannian ALM Solver for SDP-RLT Relaxations of Mixed-Binary QP
     - ICCOPT 2025 (International Conference on Continuous Optimization)
     <br> Los Angeles, 19–24 July 2025
-<!-- 
-[[slides]](/files/RiNNALplus_ICCOPT.pdf) 
-- RiNNAL: A Low-rank ALM for Doubly Nonnegative Relaxations of Mixed-binary QP
-    - NUS Graduate Symposium
-    <br> Singapore, 13 May 2025 [[slides]](/files/RiNNAL.pdf)
-- SqSN: A sparse smoothing Newton method for solving discrete OT problems
-    - NUS-SJTU PhD Forum
-    <br> Singapore, 14 Nov. 2024 [[slides]](/files/SqSN_pre.pdf)
--->
 
 Teaching
 ------

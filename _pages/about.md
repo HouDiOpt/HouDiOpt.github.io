@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student in the Department of Mathematics at National University of Singapore, advised by [Prof. Kim-Chuan Toh](https://blog.nus.edu.sg/mattohkc/). I received my B.S. degree from the TAQ Mathematics Honors Program at Jilin University in 2022. 
+I am a fourth-year Ph.D. student in the Department of Mathematics at National University of Singapore, advised by [Prof. Kim-Chuan Toh](https://blog.nus.edu.sg/mattohkc/). I received my B.S. degree from the Tang Aoqing Mathematics Honors Program at Jilin University in 2022. 
 
 My research focuses on developing efficient, robust, and scalable algorithms for large-scale optimization problems. I am currently working on solving convex relaxations of nonconvex models that arise in engineering, scientific computing, and machine learning. My interests include:
 - Semidefinite programming
@@ -37,14 +37,15 @@ Talks
 ------
 - RiNNAL+: a Riemannian ALM Solver for SDP-RLT Relaxations of Mixed-Binary QP
     - ICCOPT 2025 (International Conference on Continuous Optimization)
-    <br> Los Angeles, 19–24 July 2025 [[slides]](/files/RiNNALplus_ICCOPT.pdf)
+    <br> Los Angeles, 19–24 July 2025 <!-- [[slides]](/files/RiNNALplus_ICCOPT.pdf) -->
+<!--
 - RiNNAL: A Low-rank ALM for Doubly Nonnegative Relaxations of Mixed-binary QP
     - NUS Graduate Symposium
     <br> Singapore, 13 May 2025 [[slides]](/files/RiNNAL.pdf)
 - SqSN: A sparse smoothing Newton method for solving discrete OT problems
     - NUS-SJTU PhD Forum
     <br> Singapore, 14 Nov. 2024 [[slides]](/files/SqSN_pre.pdf)
-
+-->
 
 Teaching
 ------

@@ -36,6 +36,9 @@ Publications
 Talks
 ------
 - RiNNAL+: a Riemannian ALM Solver for SDP-RLT Relaxations of Mixed-Binary QP
+    - PKU Computational & Applied Math Graduate Forum
+    <br> Beijing China, 17–19 Nov. 2025
+- RiNNAL+: a Riemannian ALM Solver for SDP-RLT Relaxations of Mixed-Binary QP
     - ICCOPT 2025 (International Conference on Continuous Optimization)
     <br> Los Angeles, 19–24 July 2025
 

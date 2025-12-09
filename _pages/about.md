@@ -17,6 +17,9 @@ My research focuses on developing efficient, robust, and scalable algorithms for
 
 Publications
 ------
+1. **A Low-rank Augmented Lagrangian Method for Polyhedral-SDP and Moment-SOS Relaxations of Polynomial Optimization**
+<br>Di Hou, Tianyun Tang, Kim-Chuan Toh.
+<br>[[arXiv]](https://arxiv.org/abs/2512.06359) 
 1. **RiNNAL+: a Riemannian ALM Solver for SDP-RLT Relaxations of Mixed-Binary Quadratic Programs**
 <br>Di Hou, Tianyun Tang, Kim-Chuan Toh.
 <br>[[arXiv]](https://arxiv.org/abs/2507.13776) [[code]](https://github.com/HouDiOpt/RiNNALplus) [[slides]](/files/RiNNALplus_ICCOPT.pdf)

@@ -22,6 +22,7 @@ Publications
 <br>[[arXiv]](https://arxiv.org/abs/2512.06359) [[slides]](/files/RiNNALPOP.pdf)
 1. **RiNNAL+: a Riemannian ALM Solver for SDP-RLT Relaxations of Mixed-Binary Quadratic Programs**
 <br>Di Hou, Tianyun Tang, Kim-Chuan Toh.
+<br>Mathematical Programming Computation, accepted.
 <br>[[arXiv]](https://arxiv.org/abs/2507.13776) [[code]](https://github.com/HouDiOpt/RiNNALplus) [[slides]](/files/RiNNALplus_ICCOPT.pdf)
 1. **A low-rank augmented Lagrangian method for doubly nonnegative relaxations of mixed-binary quadratic programs**
 <br>Di Hou, Tianyun Tang, Kim-Chuan Toh.

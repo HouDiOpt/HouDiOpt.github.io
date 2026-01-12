@@ -9,11 +9,18 @@ redirect_from:
 
 I am a fourth-year Ph.D. student in the Department of Mathematics at National University of Singapore, advised by [Prof. Kim-Chuan Toh](https://blog.nus.edu.sg/mattohkc/). I received my B.S. degree from the Tang Aoqing Mathematics Honors Program at Jilin University in 2022. 
 
-My research focuses on developing efficient, robust, and scalable algorithms for large-scale optimization problems. I am currently working on solving convex relaxations of nonconvex models that arise in engineering, scientific computing, and machine learning. My interests include:
+<br>[[My CV]](/files/CV_HouDi.pdf)
+
+<!--My research focuses on developing efficient, robust, and scalable algorithms for large-scale optimization problems. I am currently working on solving convex relaxations of nonconvex models that arise in engineering, scientific computing, and machine learning. My interests include:
 - Semidefinite programming
 - Doubly nonnegative relaxation
 - Matrix optimization
-- Riemannian optimization
+- Riemannian optimization-->
+
+### Research Interests
+- Optimization
+- Scientific computing
+
 
 Publications
 ------
@@ -29,11 +36,11 @@ Publications
 <br>Operations Research (2025).
 <br>[[arXiv]](https://arxiv.org/abs/2502.13849) [[OR]](https://pubsonline.informs.org/doi/full/10.1287/opre.2024.1137) [[code]](https://github.com/HouDiOpt/RiNNAL) [[slides]](/files/RiNNAL.pdf)
 1. **A sparse smoothing Newton method for solving discrete optimal transport problems**
-<br>Di Hou, Ling Liang, Kim-Chuan Toh,
+<br>Di Hou, Ling Liang, Kim-Chuan Toh.
 <br>ACM Transactions on Mathematical Software 50, no. 3 (2024): 1–26. 
 <br>[[arXiv]](https://arxiv.org/abs/2311.06448) [[TOMS]](https://dl.acm.org/doi/full/10.1145/3688800) [[slides]](/files/SqSN_pre.pdf)
 1. **Block Mirror Stochastic Gradient Method For Stochastic Optimization**
-<br>Jinda Yang, Haiming Song, Xinxin Li, Di Hou
+<br>Jinda Yang, Haiming Song, Xinxin Li, Di Hou.
 <br>Journal of Scientific Computing 94, no. 3 (2023): 69. 
 <br>[[JSC]](https://link.springer.com/article/10.1007/s10915-023-02110-y)
 
@@ -46,6 +53,7 @@ Talks
     - International Conference on Continuous Optimization (ICCOPT) 2025
     <br> Los Angeles, California, U.S., 19–24 July 2025
 
+<!--
 Teaching
 ------
 At NUS, I was a TA for:
@@ -53,3 +61,4 @@ At NUS, I was a TA for:
 - MA3236 Non-Linear Programming -- Fall 2024. (Merit Award)
 - DSA3102 Essential Data Analytics Tools: Convex Optimisation -- Spring 2024. (Merit Award)
 - DSA3102 Essential Data Analytics Tools: Convex Optimisation -- Fall 2023.
+-->

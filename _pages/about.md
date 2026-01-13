@@ -53,6 +53,8 @@ Softwares
 
 Invited Talks
 ------
+- Mini Workshop on Optimization,
+  <br>National University of Singapore, Dec 2025.
 - The 8th PKU Workshop for Outstanding PhD Students in Computational and Applied Mathematics,
   <br>Peking University, Beijing, China, Nov. 2025
 - International Conference on Continuous Optimization (ICCOPT),
@@ -69,3 +71,21 @@ At NUS, I was a TA for:
 - DSA3102 Essential Data Analytics Tools: Convex Optimisation -- Spring 2024. 
 - DSA3102 Essential Data Analytics Tools: Convex Optimisation -- Fall 2023.
 
+Awards
+------
+- Graduate Tutor Merit Award, NUS, 2024, 2025
+- Faculty of Science PhD Conference Award, NUS, 2025
+- President’s Graduate Fellowship, NUS, 2022-2026
+- Top Ten Undergraduate Student Award, Changchun Province, China, 2022.
+- National Scholarship, China, 2018-2022.
+
+Service
+------
+- Referee for Journals:
+  - Optimization Methods and Software
+  - ACM Transactions on Mathematical Software
+  - Optimization and Engineering,
+  - Numerical Algebra, Control and Optimization
+- University services:
+  - President of NUS SIAM Student Chapter, Jul. 2025 – Present.
+  - Vice president of NUS Mathematics Graduate Society, Jul. 2025 – Present.

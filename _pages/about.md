@@ -45,6 +45,12 @@ Publications
 <br>Journal of Scientific Computing 94, no. 3 (2023): 69. 
 <br>[[JSC]](https://link.springer.com/article/10.1007/s10915-023-02110-y)
 
+Softwares
+------
+- [RiNNAL](https://github.com/HouDiOpt/RiNNAL): a MATLAB software for doubly nonnegative (DNN) relaxations of mixed-binary quadratic programming problems (with [Tianyun Tang](https://ttymath.github.io/tianyuntang.github.io/) and [Kim-Chuan Toh](https://blog.nus.edu.sg/mattohkc/))
+- [RiNNAL+](https://github.com/HouDiOpt/RiNNALplus): a MATLAB software for SDP-RLT and DNN relaxations of mixed-binary quadratic programming problems
+(with [Tianyun Tang](https://ttymath.github.io/tianyuntang.github.io/) and [Kim-Chuan Toh](https://blog.nus.edu.sg/mattohkc/))
+
 Invited Talks
 ------
 - The 8th PKU Workshop for Outstanding PhD Students, Peking University, Beijing, China, Nov. 2025

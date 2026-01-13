@@ -87,5 +87,5 @@ Service
   - Optimization and Engineering
   - Numerical Algebra, Control and Optimization
 - University services:
-  - President of NUS SIAM Student Chapter, Jul. 2025 – Present
-  - Vice president of NUS Mathematics Graduate Society, Jul. 2025 – Present
+  - President of [NUS SIAM Student Chapter](https://siamnus.github.io/website/), Jul. 2025 – Present
+  - Vice president of [NUS Mathematics Graduate Society](https://www.math.nus.edu.sg/pg/graduate-society/), Jul. 2025 – Present

@@ -54,11 +54,11 @@ Softwares
 Invited Talks
 ------
 - Mini Workshop on Optimization,
-  <br>National University of Singapore, Dec 2025
+  <br>National University of Singapore, Singapore, Dec 2025
 - The 8th PKU Workshop for Outstanding PhD Students in Computational and Applied Mathematics,
   <br>Peking University, Beijing, China, Nov. 2025
 - International Conference on Continuous Optimization (ICCOPT),
-  <br>USC, Los Angeles, U.S., Jul. 2025
+  <br>University of Southern California, Los Angeles, U.S., Jul. 2025
 - NUS-SJTU PhD Forum,
   <br>National University of Singapore, Singapore, Nov 2024
 

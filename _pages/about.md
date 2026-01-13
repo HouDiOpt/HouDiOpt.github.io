@@ -45,21 +45,18 @@ Publications
 <br>Journal of Scientific Computing 94, no. 3 (2023): 69. 
 <br>[[JSC]](https://link.springer.com/article/10.1007/s10915-023-02110-y)
 
-Talks
+Invited Talks
 ------
-- RiNNAL+: a Riemannian ALM Solver for SDP-RLT Relaxations of Mixed-Binary QP
-    - PKU Comp & Applied Math PhD Seminar / 11th Beijing Comp Math Forum
-    <br> Peking University, Beijing, China, 17–19 Nov. 2025
-- RiNNAL+: a Riemannian ALM Solver for SDP-RLT Relaxations of Mixed-Binary QP
-    - International Conference on Continuous Optimization (ICCOPT) 2025
-    <br> Los Angeles, California, U.S., 19–24 July 2025
+- The 8th PKU Workshop for Outstanding PhD Students, Peking University, Beijing, China, Nov. 2025
+- International Conference on Continuous Optimization, USC, Los Angeles, U.S., Jul. 2025
+- NUS-SJTU PhD Forum, National University of Singapore, Singapore, Nov 2024
 
-<!--
 Teaching
 ------
 At NUS, I was a TA for:
-- DSA2102 Essential Data Analytics Tools: Numerical Computation  -- Spring 2025. (Merit Award)
-- MA3236 Non-Linear Programming -- Fall 2024. (Merit Award)
-- DSA3102 Essential Data Analytics Tools: Convex Optimisation -- Spring 2024. (Merit Award)
+- MA4260 Stochastic Operations Research -- Spring 2026.
+- DSA2102 Essential Data Analytics Tools: Numerical Computation  -- Spring 2025. 
+- MA3236 Non-Linear Programming -- Fall 2024. 
+- DSA3102 Essential Data Analytics Tools: Convex Optimisation -- Spring 2024. 
 - DSA3102 Essential Data Analytics Tools: Convex Optimisation -- Fall 2023.
--->
+

@@ -8,19 +8,20 @@ redirect_from:
 ---
 
 I am a fourth-year Ph.D. student in the Department of Mathematics at National University of Singapore, advised by [Prof. Kim-Chuan Toh](https://blog.nus.edu.sg/mattohkc/). I received my B.S. degree from the Tang Aoqing Mathematics Honors Program at Jilin University in 2022. 
+I work on
+
+- Matrix optimization, especially semidefinite programming
+- Fast algorithms for large-scale optimization problems in data science
 
 Here is my [CV](/files/CV_HouDi.pdf)
 
-<!--My research focuses on developing efficient, robust, and scalable algorithms for large-scale optimization problems. I am currently working on solving convex relaxations of nonconvex models that arise in engineering, scientific computing, and machine learning. My interests include:
+<!--
+My research focuses on developing efficient, robust, and scalable algorithms for large-scale optimization problems. I am currently working on solving convex relaxations of nonconvex models that arise in engineering, scientific computing, and machine learning. My interests include:
 - Semidefinite programming
 - Doubly nonnegative relaxation
 - Matrix optimization
-- Riemannian optimization-->
-
-### Research Interests
-- Optimization
-- Scientific computing
-
+- Riemannian optimization
+-->
 
 Publications
 ------

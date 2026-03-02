@@ -25,6 +25,9 @@ My research focuses on developing efficient, robust, and scalable algorithms for
 
 Publications
 ------
+1. **On the efficient computation of proximal operators of affine-constrained nonconvex functions**
+<br>Di Hou, Tianyun Tang, Kim-Chuan Toh, Shiwei Wang.
+<br>[[arXiv]](https://arxiv.org/abs/2602.23626)
 1. **A Low-rank Augmented Lagrangian Method for Polyhedral-SDP and Moment-SOS Relaxations of Polynomial Optimization**
 <br>Di Hou, Tianyun Tang, Kim-Chuan Toh.
 <br>[[arXiv]](https://arxiv.org/abs/2512.06359) [[slides]](/files/RiNNALPOP.pdf)

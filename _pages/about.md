@@ -56,8 +56,10 @@ Softwares
 
 Invited Talks
 ------
+<!--
 - Mini Workshop on Optimization,
   <br>National University of Singapore, Singapore, Dec 2025
+  -->
 - The 8th PKU Workshop for Outstanding PhD Students in Computational and Applied Mathematics,
   <br>Peking University, Beijing, China, Nov. 2025
 - International Conference on Continuous Optimization (ICCOPT),
@@ -69,10 +71,10 @@ Teaching
 ------
 At NUS, I was a TA for:
 - MA4260 Stochastic Operations Research -- Spring 2026
-- DSA2102 Essential Data Analytics Tools: Numerical Computation  -- Spring 2025
+- DSA2102 Numerical Computation  -- Spring 2025
 - MA3236 Non-Linear Programming -- Fall 2024
-- DSA3102 Essential Data Analytics Tools: Convex Optimisation -- Spring 2024
-- DSA3102 Essential Data Analytics Tools: Convex Optimisation -- Fall 2023
+- DSA3102 Convex Optimisation -- Spring 2024
+- DSA3102 Convex Optimisation -- Fall 2023
 
 Awards
 ------

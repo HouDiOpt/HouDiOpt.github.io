@@ -28,23 +28,23 @@ Publications
 1. On the efficient computation of proximal operators of affine-constrained nonconvex functions
 <br>**Di Hou**, Tianyun Tang, Kim-Chuan Toh, Shiwei Wang.
 <br>[[arXiv]](https://arxiv.org/abs/2602.23626)
-1. **A Low-rank Augmented Lagrangian Method for Polyhedral-SDP and Moment-SOS Relaxations of Polynomial Optimization**
-<br>Di Hou, Tianyun Tang, Kim-Chuan Toh.
+1. A Low-rank Augmented Lagrangian Method for Polyhedral-SDP and Moment-SOS Relaxations of Polynomial Optimization
+<br>**Di Hou**, Tianyun Tang, Kim-Chuan Toh.
 <br>[[arXiv]](https://arxiv.org/abs/2512.06359) [[slides]](/files/RiNNALPOP.pdf)
-1. **RiNNAL+: a Riemannian ALM Solver for SDP-RLT Relaxations of Mixed-Binary Quadratic Programs**
-<br>Di Hou, Tianyun Tang, Kim-Chuan Toh.
+1. RiNNAL+: a Riemannian ALM Solver for SDP-RLT Relaxations of Mixed-Binary Quadratic Programs
+<br>**Di Hou**, Tianyun Tang, Kim-Chuan Toh.
 <br>*Mathematical Programming Computation* (2026).
 <br>[[arXiv]](https://arxiv.org/abs/2507.13776) [[MPC]](https://link.springer.com/article/10.1007/s12532-026-00303-8) [[code]](https://github.com/HouDiOpt/RiNNALplus) [[slides]](/files/RiNNALplus_ICCOPT.pdf)
-1. **A low-rank augmented Lagrangian method for doubly nonnegative relaxations of mixed-binary quadratic programs**
-<br>Di Hou, Tianyun Tang, Kim-Chuan Toh.
+1. A low-rank augmented Lagrangian method for doubly nonnegative relaxations of mixed-binary quadratic programs
+<br>**Di Hou**, Tianyun Tang, Kim-Chuan Toh.
 <br>*Operations Research* (2025).
 <br>[[arXiv]](https://arxiv.org/abs/2502.13849) [[OR]](https://pubsonline.informs.org/doi/full/10.1287/opre.2024.1137) [[code]](https://github.com/HouDiOpt/RiNNAL) [[slides]](/files/RiNNAL.pdf)
-1. **A sparse smoothing Newton method for solving discrete optimal transport problems**
-<br>Di Hou, Ling Liang, Kim-Chuan Toh.
+1. A sparse smoothing Newton method for solving discrete optimal transport problems
+<br>**Di Hou**, Ling Liang, Kim-Chuan Toh.
 <br>*ACM Transactions on Mathematical Software* 50, no. 3 (2024): 1–26. 
 <br>[[arXiv]](https://arxiv.org/abs/2311.06448) [[TOMS]](https://dl.acm.org/doi/full/10.1145/3688800) [[slides]](/files/SqSN_pre.pdf)
-1. **Block Mirror Stochastic Gradient Method For Stochastic Optimization**
-<br>Jinda Yang, Haiming Song, Xinxin Li, Di Hou.
+1. Block Mirror Stochastic Gradient Method For Stochastic Optimization
+<br>Jinda Yang, Haiming Song, Xinxin Li, **Di Hou**.
 <br>*Journal of Scientific Computing* 94, no. 3 (2023): 69. 
 <br>[[JSC]](https://link.springer.com/article/10.1007/s10915-023-02110-y)
 
@@ -93,4 +93,5 @@ Service
   - Numerical Algebra, Control and Optimization
 - University services:
   - President of [NUS SIAM Student Chapter](https://siamnus.github.io/website/), Jul. 2025 – Present
+  - Secretary of [NUS SIAM Student Chapter](https://siamnus.github.io/website/), Jul. 2024 – Jul. 2025
   - Vice president of [NUS Mathematics Graduate Society](https://www.math.nus.edu.sg/pg/graduate-society/), Jul. 2025 – Present

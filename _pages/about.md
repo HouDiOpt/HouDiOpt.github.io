@@ -33,11 +33,11 @@ Publications
 <br>[[arXiv]](https://arxiv.org/abs/2512.06359) [[slides]](/files/RiNNALPOP.pdf)
 1. RiNNAL+: a Riemannian ALM Solver for SDP-RLT Relaxations of Mixed-Binary Quadratic Programs
 <br>**Di Hou**, Tianyun Tang, Kim-Chuan Toh.
-<br>*Mathematical Programming Computation* (2026).
+<br>*Mathematical Programming Computation* (2026): 1-57.
 <br>[[arXiv]](https://arxiv.org/abs/2507.13776) [[MPC]](https://link.springer.com/article/10.1007/s12532-026-00303-8) [[code]](https://github.com/HouDiOpt/RiNNALplus) [[slides]](/files/RiNNALplus_ICCOPT.pdf)
 1. A low-rank augmented Lagrangian method for doubly nonnegative relaxations of mixed-binary quadratic programs
 <br>**Di Hou**, Tianyun Tang, Kim-Chuan Toh.
-<br>*Operations Research* (2025).
+<br>*Operations Research* (2025): 1626–1647.
 <br>[[arXiv]](https://arxiv.org/abs/2502.13849) [[OR]](https://pubsonline.informs.org/doi/full/10.1287/opre.2024.1137) [[code]](https://github.com/HouDiOpt/RiNNAL) [[slides]](/files/RiNNAL.pdf)
 1. A sparse smoothing Newton method for solving discrete optimal transport problems
 <br>**Di Hou**, Ling Liang, Kim-Chuan Toh.
@@ -56,6 +56,8 @@ Softwares
 
 Invited Talks
 ------
+- SIAM Conference on Optimization (OP26),
+  <br>The University of Edinburgh, United Kingdom, June 2026.
 <!--
 - Mini Workshop on Optimization,
   <br>National University of Singapore, Singapore, Dec 2025
@@ -78,6 +80,7 @@ At NUS, I was a TA for:
 
 Awards
 ------
+- Best Graduate Researcher Award, NUS, 2026
 - Graduate Tutor Merit Award, NUS, 2024, 2025
 - Faculty of Science PhD Conference Award, NUS, 2025
 - President’s Graduate Fellowship, NUS, 2022-2026

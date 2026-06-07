@@ -58,10 +58,6 @@ Invited Talks
 ------
 - SIAM Conference on Optimization (OP26),
   <br>The University of Edinburgh, United Kingdom, June 2026.
-<!--
-- Mini Workshop on Optimization,
-  <br>National University of Singapore, Singapore, Dec 2025
-  -->
 - The 8th PKU Workshop for Outstanding PhD Students in Computational and Applied Mathematics,
   <br>Peking University, Beijing, China, Nov. 2025
 - International Conference on Continuous Optimization (ICCOPT),

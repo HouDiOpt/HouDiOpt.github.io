@@ -30,7 +30,7 @@ Publications
 <br>[[arXiv]](https://arxiv.org/abs/2602.23626)
 1. A Low-rank Augmented Lagrangian Method for Polyhedral-SDP and Moment-SOS Relaxations of Polynomial Optimization
 <br>**Di Hou**, Tianyun Tang, Kim-Chuan Toh.
-<br>[[arXiv]](https://arxiv.org/abs/2512.06359) [[slides]](/files/RiNNALPOP.pdf)
+<br>[[arXiv]](https://arxiv.org/abs/2512.06359) [[slides]](/files/RiNNALPOP-v2.pdf)
 1. RiNNAL+: a Riemannian ALM Solver for SDP-RLT Relaxations of Mixed-Binary Quadratic Programs
 <br>**Di Hou**, Tianyun Tang, Kim-Chuan Toh.
 <br>*Mathematical Programming Computation* (2026): 1-57.

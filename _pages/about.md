@@ -58,7 +58,7 @@ Invited Talks
 ------
 - SIAM Conference on Optimization (OP26),
   <br>The University of Edinburgh, United Kingdom, June 2026.
-- The 8th PKU Workshop for Outstanding PhD Students in Computational and Applied Mathematics,
+- The 8th PKU Workshop for Outstanding PhD Students in CAM,
   <br>Peking University, Beijing, China, Nov. 2025
 - International Conference on Continuous Optimization (ICCOPT),
   <br>University of Southern California, Los Angeles, U.S., Jul. 2025
@@ -76,7 +76,8 @@ At NUS, I was a TA for:
 
 Awards
 ------
-- Best Graduate Researcher Award, NUS, 2026
+- Top Graduate Researcher in Science award, Faculty of Science, NUS, 2026.
+- Best Graduate Researcher Award, Department of Mathematics, NUS, 2026.
 - Graduate Tutor Merit Award, NUS, 2024, 2025
 - Faculty of Science PhD Conference Award, NUS, 2025
 - President’s Graduate Fellowship, NUS, 2022-2026

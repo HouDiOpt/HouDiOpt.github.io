@@ -77,7 +77,7 @@ At NUS, I was a TA for:
 
 Awards
 ------
-- Top Graduate Researcher in Science award, Faculty of Science, NUS, 2026.
+- Top Graduate Researcher award, Faculty of Science, NUS, 2026.
 - Best Graduate Researcher Award, Department of Mathematics, NUS, 2026.
 - Graduate Tutor Merit Award, NUS, 2024, 2025
 - Faculty of Science PhD Conference Award, NUS, 2025

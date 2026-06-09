@@ -16,13 +16,7 @@ I work on
 Here is my [CV](/files/CV_HouDi.pdf)
 
 <br>**Email:** dihou \[at\] u.nus.edu
-<!--
-My research focuses on developing efficient, robust, and scalable algorithms for large-scale optimization problems. I am currently working on solving convex relaxations of nonconvex models that arise in engineering, scientific computing, and machine learning. My interests include:
-- Semidefinite programming
-- Doubly nonnegative relaxation
-- Matrix optimization
-- Riemannian optimization
--->
+
 
 Publications
 ------

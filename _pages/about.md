@@ -69,7 +69,7 @@ At NUS, I was a TA for:
 - DSA3102 Convex Optimisation -- Spring 2024
 - DSA3102 Convex Optimisation -- Fall 2023
 
-Awards
+Recognitions
 ------
 - Top Graduate Researcher award, Faculty of Science, NUS, 2026.
 - Best Graduate Researcher Award, Department of Mathematics, NUS, 2026.

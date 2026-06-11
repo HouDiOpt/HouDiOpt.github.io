@@ -74,7 +74,7 @@ Recognitions
 - Top Graduate Researcher award, Faculty of Science, NUS, 2026.
 - Best Graduate Researcher Award, Department of Mathematics, NUS, 2026.
 - Graduate Tutor Merit Award, NUS, 2024, 2025
-- Faculty of Science PhD Conference Award, NUS, 2025
+- PhD Conference Award, Faculty of Science, NUS, 2025
 - President’s Graduate Fellowship, NUS, 2022-2026
 - Top Ten Undergraduate Student Award, Changchun Province, China, 2022
 - National Scholarship, China, 2018-2022

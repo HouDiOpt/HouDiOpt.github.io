@@ -20,6 +20,9 @@ Here is my [CV](/files/CV_HouDi.pdf)
 
 Publications
 ------
+1. Sparsity-Cone SDP Relaxations and Applications to Variable Fixing for Sparse Quadratic Programs
+<br>**Di Hou**, Thai P.D. Nguyen, Kim-Chuan Toh, Guanyi Wang.
+<br>[[arXiv]](https://arxiv.org/abs/2606.22894)
 1. On the efficient computation of proximal operators of affine-constrained nonconvex functions
 <br>**Di Hou**, Tianyun Tang, Kim-Chuan Toh, Shiwei Wang.
 <br>[[arXiv]](https://arxiv.org/abs/2602.23626)

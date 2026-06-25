@@ -61,6 +61,7 @@ Recognitions
 - PhD Conference Award, Faculty of Science, NUS, 2025
 - President’s Graduate Fellowship, NUS, 2022-2026
 - Top Ten Undergraduate Student Award, Changchun Province, China, 2022
+- Top Ten Undergraduate Student Award, Jilin University, China, 2022
 - National Scholarship, China, 2018-2022
 
 Invited Talks

@@ -28,6 +28,7 @@ Publications
 <br>[[arXiv]](https://arxiv.org/abs/2602.23626)
 1. A Low-rank Augmented Lagrangian Method for Polyhedral-SDP and Moment-SOS Relaxations of Polynomial Optimization
 <br>**Di Hou**, Tianyun Tang, Kim-Chuan Toh.
+<br>*Mathematical Programming* (2026), accepted.
 <br>[[arXiv]](https://arxiv.org/abs/2512.06359) [[slides]](/files/RiNNALPOP-v2.pdf)
 1. RiNNAL+: a Riemannian ALM Solver for SDP-RLT Relaxations of Mixed-Binary Quadratic Programs
 <br>**Di Hou**, Tianyun Tang, Kim-Chuan Toh.
@@ -54,6 +55,8 @@ Softwares
 
 Invited Talks
 ------
+- Computational Robotics Group Seminar (online)
+  <br>Harvard University, Cambridge, MA, U.S., June 2026.
 - SIAM Conference on Optimization (OP26),
   <br>The University of Edinburgh, United Kingdom, June 2026.
 - The 8th PKU Workshop for Outstanding PhD Students in CAM,

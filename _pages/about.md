@@ -12,7 +12,8 @@ I work on
 
 - Matrix optimization, especially semidefinite programming
 - Fast algorithms for large-scale optimization problems in data science
-<br>[My CV](/files/CV_HouDi.pdf)
+
+<br>Here is my [CV](/files/CV_HouDi.pdf)
 <br>**Email:** dihou \[at\] u.nus.edu
 
 Preprints

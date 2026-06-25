@@ -12,17 +12,16 @@ I work on
 
 - Matrix optimization, especially semidefinite programming
 - Fast algorithms for large-scale optimization problems in data science
-
-<br>**CV:** [CV](/files/CV_HouDi.pdf)
+<br>[My CV](/files/CV_HouDi.pdf)
 <br>**Email:** dihou \[at\] u.nus.edu
 
 Preprints
 ------
 1. Sparsity-Cone SDP Relaxations and Applications to Variable Fixing for Sparse Quadratic Programs
-<br>**Di Hou**, Thai P.D. Nguyen, Kim-Chuan Toh, Guanyi Wang.
+<br>**Di Hou**, Thai P.D. Nguyen, Kim-Chuan Toh, Guanyi Wang, submitted.
 <br>[[arXiv]](https://arxiv.org/abs/2606.22894)
 1. On the efficient computation of proximal operators of affine-constrained nonconvex functions
-<br>**Di Hou**, Tianyun Tang, Kim-Chuan Toh, Shiwei Wang.
+<br>**Di Hou**, Tianyun Tang, Kim-Chuan Toh, Shiwei Wang, submitted.
 <br>[[arXiv]](https://arxiv.org/abs/2602.23626)
 
 Publications

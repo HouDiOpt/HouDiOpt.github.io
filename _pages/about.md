@@ -53,6 +53,16 @@ Softwares
 - [RiNNAL+](https://github.com/HouDiOpt/RiNNALplus): a MATLAB software for SDP-RLT and DNN relaxations of mixed-binary quadratic programming problems
 (with [Tianyun Tang](https://ttymath.github.io/tianyuntang.github.io/) and [Kim-Chuan Toh](https://blog.nus.edu.sg/mattohkc/))
 
+Recognitions
+------
+- Top Graduate Researcher Award, Faculty of Science, NUS, 2026.
+- Best Graduate Researcher Award, Department of Mathematics, NUS, 2026.
+- Graduate Tutor Merit Award, NUS, 2024, 2025
+- PhD Conference Award, Faculty of Science, NUS, 2025
+- President’s Graduate Fellowship, NUS, 2022-2026
+- Top Ten Undergraduate Student Award, Changchun Province, China, 2022
+- National Scholarship, China, 2018-2022
+
 Invited Talks
 ------
 - Computational Robotics Group Seminar (online)
@@ -74,16 +84,6 @@ At NUS, I was a TA for:
 - MA3236 Non-Linear Programming -- Fall 2024
 - DSA3102 Convex Optimisation -- Spring 2024
 - DSA3102 Convex Optimisation -- Fall 2023
-
-Recognitions
-------
-- Top Graduate Researcher Award, Faculty of Science, NUS, 2026.
-- Best Graduate Researcher Award, Department of Mathematics, NUS, 2026.
-- Graduate Tutor Merit Award, NUS, 2024, 2025
-- PhD Conference Award, Faculty of Science, NUS, 2025
-- President’s Graduate Fellowship, NUS, 2022-2026
-- Top Ten Undergraduate Student Award, Changchun Province, China, 2022
-- National Scholarship, China, 2018-2022
 
 Service
 ------

@@ -9,13 +9,13 @@ redirect_from:
 
 I am a fourth-year Ph.D. student in the Department of Mathematics at National University of Singapore, advised by [Prof. Kim-Chuan Toh](https://blog.nus.edu.sg/mattohkc/). I received my B.S. degree from the Tang Aoqing Mathematics Honors Program at Jilin University in 2022. Here is my [CV](/files/CV_HouDi.pdf)
 
-<br>**Email:** dihou \[at\] u.nus.edu
+**Email:** dihou \[at\] u.nus.edu
 
 Research Interests
 ------
 - Matrix optimization, especially semidefinite programming
 - Fast algorithms for large-scale optimization problems in data science
-- A summary talk on my recent RiNNAL-related work for solving SDP relaxations is available here: [[slides]](/files/RiNNAL-X.pdf).
+- Recent RiNNAL-related work: [[slides]](/files/RiNNAL-X.pdf).
 
 Preprints
 ------

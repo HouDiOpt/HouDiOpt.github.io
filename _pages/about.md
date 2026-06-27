@@ -13,9 +13,8 @@ I am a fourth-year Ph.D. student in the Department of Mathematics at National Un
 
 Research Interests
 ------
-- Matrix optimization, especially semidefinite programming
+- Matrix optimization, especially semidefinite programming [[summary talk]](/files/RiNNAL-X.pdf)
 - Fast algorithms for large-scale optimization problems in data science
-- Recent RiNNAL-related work: [[slides]](/files/RiNNAL-X.pdf).
 
 Preprints
 ------

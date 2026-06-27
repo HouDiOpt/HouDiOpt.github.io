@@ -15,7 +15,7 @@ Research Interests
 ------
 - Matrix optimization, especially semidefinite programming
 - Fast algorithms for large-scale optimization problems in data science
-<br>A summary talk on my recent RiNNAL-related work for solving SDP relaxations is available here: [[slides]](/files/RiNNAL-X.pdf).
+- A summary talk on my recent RiNNAL-related work for solving SDP relaxations is available here: [[slides]](/files/RiNNAL-X.pdf).
 
 Preprints
 ------

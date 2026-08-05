@@ -56,9 +56,11 @@ Softwares
 
 Recognitions
 ------
+
 - Top Graduate Researcher Award, Faculty of Science, NUS, 2026.
 - Best Graduate Researcher Award, Department of Mathematics, NUS, 2026.
 - Graduate Tutor Merit Award, NUS, 2024, 2025
+- EASIAM 2026 Travel Award, 2026
 - PhD Conference Award, Faculty of Science, NUS, 2025
 - President’s Graduate Fellowship, NUS, 2022-2026
 - Top Ten Undergraduate Student Award, Changchun Province, China, 2022
@@ -67,6 +69,8 @@ Recognitions
 
 Invited Talks
 ------
+- The 19th East Asia SIAM (EASIAM) Annual Meeting
+  <br>Jeju Island, Korea, Aug. 2026.
 - Computational Robotics Group Seminar (online)
   <br>Harvard University, Cambridge, MA, U.S., June 2026.
 - SIAM Conference on Optimization (OP26),

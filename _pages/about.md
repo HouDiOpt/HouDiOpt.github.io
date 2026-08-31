@@ -59,7 +59,7 @@ Recognitions
 
 - Top Graduate Researcher Award, Faculty of Science, NUS, 2026.
 - Best Graduate Researcher Award, Department of Mathematics, NUS, 2026.
-- Graduate Tutor Merit Award, NUS, 2024, 2025
+- Graduate Tutor Merit Award (Tier 1), NUS, 2024, 2025, 2026.
 - EASIAM 2026 Travel Award, 2026
 - PhD Conference Award, Faculty of Science, NUS, 2025
 - President’s Graduate Fellowship, NUS, 2022-2026

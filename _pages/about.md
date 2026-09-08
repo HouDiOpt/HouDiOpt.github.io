@@ -26,7 +26,7 @@ Publications
 ------
 1. On the efficient computation of proximal operators of affine-constrained nonconvex functions
 <br>**Di Hou**, Tianyun Tang, Kim-Chuan Toh, Shiwei Wang.
-<br>*Mathematics of Operations Research * , accepted.
+<br>*Mathematics of Operations Research* , accepted.
 <br>[[arXiv]](https://arxiv.org/abs/2602.23626) 
 1. A Low-rank Augmented Lagrangian Method for Polyhedral-SDP and Moment-SOS Relaxations of Polynomial Optimization
 <br>**Di Hou**, Tianyun Tang, Kim-Chuan Toh.

@@ -70,19 +70,46 @@ Recognitions
 
 Invited Talks
 ------
-**RiNNAL-X: Low-rank ALM for structured SDP relaxations** [[slides]](/files/RiNNAL-X.pdf)
-- Computational Robotics Group Seminar, Harvard University (online) — June 2026.
-
-**RiNNAL-POP: A low-rank augmented Lagrangian method for polyhedral-SDP and moment-SOS relaxations of polynomial optimization** [[slides]](/files/RiNNALPOP-v2.pdf)
-- 19th East Asia SIAM (EASIAM) Annual Meeting, Jeju Island, Korea — Aug. 2026.
-- SIAM Conference on Optimization (OP26), University of Edinburgh, United Kingdom — June 2026.
-
-**RiNNAL+: A Riemannian ALM solver for SDP-RLT relaxations of MBQP** [[slides]](/files/RiNNALplus_ICCOPT.pdf)
-- 8th PKU Workshop for Outstanding PhD Students in Computational and Applied Mathematics, Peking University, Beijing, China — Nov. 2025.
-- International Conference on Continuous Optimization (ICCOPT), University of Southern California, Los Angeles, U.S. — July 2025.
-
-**A sparse smoothing Newton method for solving discrete optimal transport problems** [[slides]](/files/SqSN_pre.pdf)
-- NUS-SJTU PhD Forum, National University of Singapore — Nov. 2024.
+<div class="invited-talks">
+  <section class="talk-group">
+    <div class="talk-heading">
+      <h3>RiNNAL-X: Low-rank ALM for structured SDP relaxations</h3>
+      <a class="talk-slides" href="/files/RiNNAL-X.pdf" aria-label="Slides: RiNNAL-X: Low-rank ALM for structured SDP relaxations">Slides</a>
+    </div>
+    <ul class="talk-venues">
+      <li><div class="talk-event"><span class="talk-venue">Computational Robotics Group Seminar</span><span class="talk-location">Harvard University · Online</span></div><time datetime="2026-06">June 2026</time></li>
+    </ul>
+  </section>
+  <section class="talk-group">
+    <div class="talk-heading">
+      <h3>RiNNAL-POP: A low-rank augmented Lagrangian method for polyhedral-SDP and moment-SOS relaxations of polynomial optimization</h3>
+      <a class="talk-slides" href="/files/RiNNALPOP-v2.pdf" aria-label="Slides: RiNNAL-POP: A low-rank augmented Lagrangian method for polyhedral-SDP and moment-SOS relaxations of polynomial optimization">Slides</a>
+    </div>
+    <ul class="talk-venues">
+      <li><div class="talk-event"><span class="talk-venue">19th East Asia SIAM (EASIAM) Annual Meeting</span><span class="talk-location">Jeju Island, Korea</span></div><time datetime="2026-08">Aug. 2026</time></li>
+      <li><div class="talk-event"><span class="talk-venue">SIAM Conference on Optimization (OP26)</span><span class="talk-location">University of Edinburgh, United Kingdom</span></div><time datetime="2026-06">June 2026</time></li>
+    </ul>
+  </section>
+  <section class="talk-group">
+    <div class="talk-heading">
+      <h3>RiNNAL+: A Riemannian ALM solver for SDP-RLT relaxations of MBQP</h3>
+      <a class="talk-slides" href="/files/RiNNALplus_ICCOPT.pdf" aria-label="Slides: RiNNAL+: A Riemannian ALM solver for SDP-RLT relaxations of MBQP">Slides</a>
+    </div>
+    <ul class="talk-venues">
+      <li><div class="talk-event"><span class="talk-venue">8th PKU Workshop for Outstanding PhD Students in Computational and Applied Mathematics</span><span class="talk-location">Peking University · Beijing, China</span></div><time datetime="2025-11">Nov. 2025</time></li>
+      <li><div class="talk-event"><span class="talk-venue">International Conference on Continuous Optimization (ICCOPT)</span><span class="talk-location">University of Southern California · Los Angeles, U.S.</span></div><time datetime="2025-07">July 2025</time></li>
+    </ul>
+  </section>
+  <section class="talk-group">
+    <div class="talk-heading">
+      <h3>A sparse smoothing Newton method for solving discrete optimal transport problems</h3>
+      <a class="talk-slides" href="/files/SqSN_pre.pdf" aria-label="Slides: A sparse smoothing Newton method for solving discrete optimal transport problems">Slides</a>
+    </div>
+    <ul class="talk-venues">
+      <li><div class="talk-event"><span class="talk-venue">NUS-SJTU PhD Forum</span><span class="talk-location">National University of Singapore</span></div><time datetime="2024-11">Nov. 2024</time></li>
+    </ul>
+  </section>
+</div>
 
 Teaching
 ------

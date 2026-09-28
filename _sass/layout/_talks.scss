@@ -1,0 +1,53 @@
+/* Scoped layout for the grouped invited talks on the homepage. */
+.page__content .invited-talks {
+  .talk-group {
+    padding: 1em 0;
+    border-bottom: 1px solid var(--global-border-color, #e5e7eb);
+  }
+  .talk-group:first-child { padding-top: 0; }
+  .talk-group:last-child { border-bottom: 0; }
+  .talk-heading {
+    display: flex;
+    align-items: baseline;
+    gap: 1em;
+    margin-bottom: .6em;
+  }
+  .talk-heading h3 {
+    flex: 1;
+    min-width: 0;
+    margin: 0;
+    font-size: 1em;
+    font-weight: 600;
+    line-height: 1.5;
+  }
+  .talk-slides { flex-shrink: 0; font-size: .8em; }
+  .talk-venues { list-style: none; margin: 0; padding: 0; }
+  .talk-venues li {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 1em;
+    margin: 0;
+    padding: .35em 0;
+    font-size: .9em;
+    line-height: 1.5;
+  }
+  .talk-event span { display: block; }
+  .talk-location {
+    color: var(--global-text-color-light, #646970);
+    font-size: .92em;
+    margin-top: .1em;
+  }
+  time {
+    white-space: nowrap;
+    font-size: .92em;
+    color: var(--global-text-color-light, #646970);
+    font-variant-numeric: tabular-nums;
+  }
+}
+@media (max-width: 600px) {
+  .page__content .invited-talks {
+    .talk-heading { gap: .6em; }
+    .talk-venues li { grid-template-columns: minmax(0, 1fr); gap: .1em; }
+    .talk-venues li + li { margin-top: .35em; }
+  }
+}

@@ -40,3 +40,6 @@
 html[data-theme="dark"] .page__content .research-venue .journal-name {
   color: #a8c9e8;
 }
+
+/* Slightly quieter research titles; keep section and journal sizes unchanged. */
+.page__content .research-list h3 { font-size: .95em; }

@@ -60,10 +60,10 @@ Research Software
 ------
 <div class="research-software">
   <section class="software-entry"><div class="software-heading"><h3>RiNNAL</h3><a href="https://github.com/HouDiOpt/RiNNAL">Code</a></div>
-    <p>A MATLAB solver for doubly nonnegative (DNN) relaxations of mixed-binary quadratic programming problems.</p>
+    <p>MATLAB solver for doubly nonnegative relaxations of mixed-binary quadratic programs.</p>
     <p class="software-authors">With <a href="https://ttymath.github.io/tianyuntang.github.io/">Tianyun Tang</a> and <a href="https://blog.nus.edu.sg/mattohkc/">Kim-Chuan Toh</a></p></section>
   <section class="software-entry"><div class="software-heading"><h3>RiNNAL+</h3><a href="https://github.com/HouDiOpt/RiNNALplus">Code</a></div>
-    <p>A MATLAB solver for SDP-RLT and DNN relaxations of mixed-binary quadratic programming problems.</p>
+    <p>MATLAB solver for SDP-RLT and DNN relaxations of mixed-binary quadratic programs.</p>
     <p class="software-authors">With <a href="https://ttymath.github.io/tianyuntang.github.io/">Tianyun Tang</a> and <a href="https://blog.nus.edu.sg/mattohkc/">Kim-Chuan Toh</a></p></section>
 </div>
 

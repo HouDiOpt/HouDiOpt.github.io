@@ -18,55 +18,65 @@ Research Interests
 
 Preprints
 ------
-1. Sparsity-cone SDP relaxations and applications to variable fixing for sparse quadratic programs
-<br>**Di Hou**, Thai P.D. Nguyen, Kim-Chuan Toh, Guanyi Wang, submitted.
-<br>[[arXiv]](https://arxiv.org/abs/2606.22894)
+<ol class="research-list">
+  <li><h3>Sparsity-cone SDP relaxations and applications to variable fixing for sparse quadratic programs</h3>
+    <p class="research-authors"><strong>Di Hou</strong>, Thai P.D. Nguyen, Kim-Chuan Toh, Guanyi Wang, submitted.</p>
+    <div class="research-links"><a href="https://arxiv.org/abs/2606.22894">arXiv</a></div></li>
+</ol>
 
 Publications
 ------
-1. On the efficient computation of proximal operators of affine-constrained nonconvex functions
-<br>**Di Hou**, Tianyun Tang, Kim-Chuan Toh, Shiwei Wang.
-<br>*Mathematics of Operations Research*, accepted.
-<br>[[arXiv]](https://arxiv.org/abs/2602.23626) 
-1. A low-rank augmented Lagrangian method for polyhedral-SDP and moment-SOS relaxations of polynomial optimization
-<br>**Di Hou**, Tianyun Tang, Kim-Chuan Toh.
-<br>*Mathematical Programming* (2026): 1-53.
-<br>[[arXiv]](https://arxiv.org/abs/2512.06359) [[MP]](https://rdcu.be/fsTuk) [[slides]](/files/RiNNALPOP-v2.pdf)
-1. RiNNAL+: A Riemannian ALM solver for SDP-RLT relaxations of mixed-binary quadratic programs
-<br>**Di Hou**, Tianyun Tang, Kim-Chuan Toh.
-<br>*Mathematical Programming Computation* 18 (2026): 679–735.
-<br>[[arXiv]](https://arxiv.org/abs/2507.13776) [[MPC]](https://link.springer.com/article/10.1007/s12532-026-00303-8) [[code]](https://github.com/HouDiOpt/RiNNALplus) [[slides]](/files/RiNNALplus_ICCOPT.pdf)
-1. A low-rank augmented Lagrangian method for doubly nonnegative relaxations of mixed-binary quadratic programs
-<br>**Di Hou**, Tianyun Tang, Kim-Chuan Toh.
-<br>*Operations Research* 74(3) (2025): 1626–1647.
-<br>[[arXiv]](https://arxiv.org/abs/2502.13849) [[OR]](https://pubsonline.informs.org/doi/full/10.1287/opre.2024.1137) [[code]](https://github.com/HouDiOpt/RiNNAL) [[slides]](/files/RiNNAL.pdf)
-1. A sparse smoothing Newton method for solving discrete optimal transport problems
-<br>**Di Hou**, Ling Liang, Kim-Chuan Toh.
-<br>*ACM Transactions on Mathematical Software* 50, no. 3 (2024): 1–26. 
-<br>[[arXiv]](https://arxiv.org/abs/2311.06448) [[TOMS]](https://dl.acm.org/doi/full/10.1145/3688800) [[slides]](/files/SqSN_pre.pdf)
-1. Block mirror stochastic gradient method for stochastic optimization
-<br>Jinda Yang, Haiming Song, Xinxin Li, **Di Hou**.
-<br>*Journal of Scientific Computing* 94, no. 3 (2023): 69. 
-<br>[[JSC]](https://link.springer.com/article/10.1007/s10915-023-02110-y)
+<ol class="research-list">
+  <li><h3>On the efficient computation of proximal operators of affine-constrained nonconvex functions</h3>
+    <p class="research-authors"><strong>Di Hou</strong>, Tianyun Tang, Kim-Chuan Toh, Shiwei Wang.</p>
+    <p class="research-venue"><em>Mathematics of Operations Research</em>, accepted.</p>
+    <div class="research-links"><a href="https://arxiv.org/abs/2602.23626">arXiv</a></div></li>
+  <li><h3>A low-rank augmented Lagrangian method for polyhedral-SDP and moment-SOS relaxations of polynomial optimization</h3>
+    <p class="research-authors"><strong>Di Hou</strong>, Tianyun Tang, Kim-Chuan Toh.</p>
+    <p class="research-venue"><em>Mathematical Programming</em> (2026): 1-53.</p>
+    <div class="research-links"><a href="https://arxiv.org/abs/2512.06359">arXiv</a> <a href="https://rdcu.be/fsTuk">MP</a> <a href="/files/RiNNALPOP-v2.pdf">Slides</a></div></li>
+  <li><h3>RiNNAL+: A Riemannian ALM solver for SDP-RLT relaxations of mixed-binary quadratic programs</h3>
+    <p class="research-authors"><strong>Di Hou</strong>, Tianyun Tang, Kim-Chuan Toh.</p>
+    <p class="research-venue"><em>Mathematical Programming Computation</em> 18 (2026): 679–735.</p>
+    <div class="research-links"><a href="https://arxiv.org/abs/2507.13776">arXiv</a> <a href="https://link.springer.com/article/10.1007/s12532-026-00303-8">MPC</a> <a href="https://github.com/HouDiOpt/RiNNALplus">Code</a> <a href="/files/RiNNALplus_ICCOPT.pdf">Slides</a></div></li>
+  <li><h3>A low-rank augmented Lagrangian method for doubly nonnegative relaxations of mixed-binary quadratic programs</h3>
+    <p class="research-authors"><strong>Di Hou</strong>, Tianyun Tang, Kim-Chuan Toh.</p>
+    <p class="research-venue"><em>Operations Research</em> 74(3) (2025): 1626–1647.</p>
+    <div class="research-links"><a href="https://arxiv.org/abs/2502.13849">arXiv</a> <a href="https://pubsonline.informs.org/doi/full/10.1287/opre.2024.1137">OR</a> <a href="https://github.com/HouDiOpt/RiNNAL">Code</a> <a href="/files/RiNNAL.pdf">Slides</a></div></li>
+  <li><h3>A sparse smoothing Newton method for solving discrete optimal transport problems</h3>
+    <p class="research-authors"><strong>Di Hou</strong>, Ling Liang, Kim-Chuan Toh.</p>
+    <p class="research-venue"><em>ACM Transactions on Mathematical Software</em> 50, no. 3 (2024): 1–26.</p>
+    <div class="research-links"><a href="https://arxiv.org/abs/2311.06448">arXiv</a> <a href="https://dl.acm.org/doi/full/10.1145/3688800">TOMS</a> <a href="/files/SqSN_pre.pdf">Slides</a></div></li>
+  <li><h3>Block mirror stochastic gradient method for stochastic optimization</h3>
+    <p class="research-authors">Jinda Yang, Haiming Song, Xinxin Li, <strong>Di Hou</strong>.</p>
+    <p class="research-venue"><em>Journal of Scientific Computing</em> 94, no. 3 (2023): 69.</p>
+    <div class="research-links"><a href="https://link.springer.com/article/10.1007/s10915-023-02110-y">JSC</a></div></li>
+</ol>
 
 Research Software
 ------
-- [RiNNAL](https://github.com/HouDiOpt/RiNNAL): a MATLAB solver for doubly nonnegative (DNN) relaxations of mixed-binary quadratic programming problems (with [Tianyun Tang](https://ttymath.github.io/tianyuntang.github.io/) and [Kim-Chuan Toh](https://blog.nus.edu.sg/mattohkc/))
-- [RiNNAL+](https://github.com/HouDiOpt/RiNNALplus): a MATLAB solver for SDP-RLT and DNN relaxations of mixed-binary quadratic programming problems
-(with [Tianyun Tang](https://ttymath.github.io/tianyuntang.github.io/) and [Kim-Chuan Toh](https://blog.nus.edu.sg/mattohkc/))
+<div class="research-software">
+  <section class="software-entry"><div class="software-heading"><h3>RiNNAL</h3><a href="https://github.com/HouDiOpt/RiNNAL">Code</a></div>
+    <p>A MATLAB solver for doubly nonnegative (DNN) relaxations of mixed-binary quadratic programming problems.</p>
+    <p class="software-authors">With <a href="https://ttymath.github.io/tianyuntang.github.io/">Tianyun Tang</a> and <a href="https://blog.nus.edu.sg/mattohkc/">Kim-Chuan Toh</a></p></section>
+  <section class="software-entry"><div class="software-heading"><h3>RiNNAL+</h3><a href="https://github.com/HouDiOpt/RiNNALplus">Code</a></div>
+    <p>A MATLAB solver for SDP-RLT and DNN relaxations of mixed-binary quadratic programming problems.</p>
+    <p class="software-authors">With <a href="https://ttymath.github.io/tianyuntang.github.io/">Tianyun Tang</a> and <a href="https://blog.nus.edu.sg/mattohkc/">Kim-Chuan Toh</a></p></section>
+</div>
 
 Recognitions
 ------
-
-- Top Graduate Researcher Award, Faculty of Science, NUS, 2026.
-- Best Graduate Researcher Award, Department of Mathematics, NUS, 2026.
-- Graduate Tutor Merit Award (Tier 1), NUS, 2024, 2025, 2026.
-- EASIAM 2026 Travel Award, 2026
-- PhD Conference Award, NUS, 2025
-- President’s Graduate Fellowship, NUS, 2022-2026
-- Top Ten Undergraduate Student Award, Changchun City, China, 2022
-- Top Ten Undergraduate Student Award, Jilin University, China, 2022
-- National Scholarship, China, 2018-2022
+<ul class="profile-rows">
+  <li><div><span class="profile-label">Top Graduate Researcher Award</span><span class="profile-detail">Faculty of Science, NUS</span></div><span class="profile-date">2026</span></li>
+  <li><div><span class="profile-label">Best Graduate Researcher Award</span><span class="profile-detail">Department of Mathematics, NUS</span></div><span class="profile-date">2026</span></li>
+  <li><div><span class="profile-label">Graduate Tutor Merit Award (Tier 1)</span><span class="profile-detail">NUS</span></div><span class="profile-date">2024, 2025, 2026</span></li>
+  <li><div><span class="profile-label">EASIAM 2026 Travel Award</span></div><span class="profile-date">2026</span></li>
+  <li><div><span class="profile-label">PhD Conference Award</span><span class="profile-detail">NUS</span></div><span class="profile-date">2025</span></li>
+  <li><div><span class="profile-label">President’s Graduate Fellowship</span><span class="profile-detail">NUS</span></div><span class="profile-date">2022–2026</span></li>
+  <li><div><span class="profile-label">Top Ten Undergraduate Student Award</span><span class="profile-detail">Changchun City, China</span></div><span class="profile-date">2022</span></li>
+  <li><div><span class="profile-label">Top Ten Undergraduate Student Award</span><span class="profile-detail">Jilin University, China</span></div><span class="profile-date">2022</span></li>
+  <li><div><span class="profile-label">National Scholarship</span><span class="profile-detail">China</span></div><span class="profile-date">2018–2022</span></li>
+</ul>
 
 Invited Talks
 ------
@@ -114,20 +124,30 @@ Invited Talks
 Teaching
 ------
 At NUS, I was a TA for:
-- MA4260 Stochastic Operations Research -- Spring 2026
-- DSA2102 Numerical Computation  -- Spring 2025
-- MA3236 Non-Linear Programming -- Fall 2024
-- DSA3102 Convex Optimisation -- Spring 2024
-- DSA3102 Convex Optimisation -- Fall 2023
+
+<ul class="profile-rows">
+  <li><div><span class="profile-label">MA4260 · Stochastic Operations Research</span></div><span class="profile-date">Spring 2026</span></li>
+  <li><div><span class="profile-label">DSA2102 · Numerical Computation</span></div><span class="profile-date">Spring 2025</span></li>
+  <li><div><span class="profile-label">MA3236 · Non-Linear Programming</span></div><span class="profile-date">Fall 2024</span></li>
+  <li><div><span class="profile-label">DSA3102 · Convex Optimisation</span></div><span class="profile-date">Spring 2024</span></li>
+  <li><div><span class="profile-label">DSA3102 · Convex Optimisation</span></div><span class="profile-date">Fall 2023</span></li>
+</ul>
 
 Service
 ------
-- Referee for Journals:
-  - Optimization Methods and Software
-  - ACM Transactions on Mathematical Software
-  - Optimization and Engineering
-  - Numerical Algebra, Control and Optimization
-- Other Services:
-  - President of [NUS SIAM Student Chapter](https://siamnus.github.io/website/), Jul. 2025 – Jul. 2026
-  - Secretary of [NUS SIAM Student Chapter](https://siamnus.github.io/website/), Jul. 2024 – Jul. 2025
-  - Vice president of [NUS Mathematics Graduate Society](https://www.math.nus.edu.sg/pg/graduate-society/), Jul. 2025 – Present
+<div class="profile-service">
+<h3>Referee for Journals</h3>
+<ul class="journal-list">
+  <li>Optimization Methods and Software</li>
+  <li>ACM Transactions on Mathematical Software</li>
+  <li>Optimization and Engineering</li>
+  <li>Numerical Algebra, Control and Optimization</li>
+</ul>
+<h3>Other Services</h3>
+<ul class="profile-rows">
+  <li><div><span class="profile-label">President</span><span class="profile-detail"><a href="https://siamnus.github.io/website/">NUS SIAM Student Chapter</a></span></div><span class="profile-date">Jul. 2025 – Jul. 2026</span></li>
+  <li><div><span class="profile-label">Secretary</span><span class="profile-detail"><a href="https://siamnus.github.io/website/">NUS SIAM Student Chapter</a></span></div><span class="profile-date">Jul. 2024 – Jul. 2025</span></li>
+  <li><div><span class="profile-label">Vice president</span><span class="profile-detail"><a href="https://www.math.nus.edu.sg/pg/graduate-society/">NUS Mathematics Graduate Society</a></span></div><span class="profile-date">Jul. 2025 – Present</span></li>
+</ul>
+
+</div>

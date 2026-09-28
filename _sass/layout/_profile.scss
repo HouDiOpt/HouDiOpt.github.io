@@ -47,3 +47,25 @@ html[data-theme="dark"] .page__content .research-venue .journal-name {
 .page__content {
   .profile-intro, .profile-contact, .profile-interests { font-size: .95em; }
 }
+
+/* Muted links stay recognizable without competing with research titles. */
+.page__content a {
+  color: #526b7a;
+  text-decoration-color: rgba(82, 107, 122, .35);
+  text-decoration-thickness: 1px;
+  text-underline-offset: .14em;
+  &:visited { color: #526b7a; }
+  &:hover, &:focus-visible {
+    color: #254e70;
+    text-decoration-color: currentColor;
+  }
+}
+html[data-theme="dark"] .page__content a {
+  color: #a2b7c5;
+  text-decoration-color: rgba(162, 183, 197, .4);
+  &:visited { color: #a2b7c5; }
+  &:hover, &:focus-visible {
+    color: #c4d8e6;
+    text-decoration-color: currentColor;
+  }
+}

@@ -29,27 +29,27 @@ Publications
 <ol class="research-list">
   <li><h3>On the efficient computation of proximal operators of affine-constrained nonconvex functions</h3>
     <p class="research-authors"><strong>Di Hou</strong>, Tianyun Tang, Kim-Chuan Toh, Shiwei Wang.</p>
-    <p class="research-venue"><em>Mathematics of Operations Research</em>, accepted.</p>
+    <p class="research-venue"><span class="journal-name">Mathematics of Operations Research</span>, accepted.</p>
     <div class="research-links"><a href="https://arxiv.org/abs/2602.23626">arXiv</a></div></li>
   <li><h3>A low-rank augmented Lagrangian method for polyhedral-SDP and moment-SOS relaxations of polynomial optimization</h3>
     <p class="research-authors"><strong>Di Hou</strong>, Tianyun Tang, Kim-Chuan Toh.</p>
-    <p class="research-venue"><em>Mathematical Programming</em> (2026): 1-53.</p>
+    <p class="research-venue"><span class="journal-name">Mathematical Programming</span> (2026): 1-53.</p>
     <div class="research-links"><a href="https://arxiv.org/abs/2512.06359">arXiv</a> <a href="https://rdcu.be/fsTuk">MP</a> <a href="/files/RiNNALPOP-v2.pdf">Slides</a></div></li>
   <li><h3>RiNNAL+: A Riemannian ALM solver for SDP-RLT relaxations of mixed-binary quadratic programs</h3>
     <p class="research-authors"><strong>Di Hou</strong>, Tianyun Tang, Kim-Chuan Toh.</p>
-    <p class="research-venue"><em>Mathematical Programming Computation</em> 18 (2026): 679–735.</p>
+    <p class="research-venue"><span class="journal-name">Mathematical Programming Computation</span> 18 (2026): 679–735.</p>
     <div class="research-links"><a href="https://arxiv.org/abs/2507.13776">arXiv</a> <a href="https://link.springer.com/article/10.1007/s12532-026-00303-8">MPC</a> <a href="https://github.com/HouDiOpt/RiNNALplus">Code</a> <a href="/files/RiNNALplus_ICCOPT.pdf">Slides</a></div></li>
   <li><h3>A low-rank augmented Lagrangian method for doubly nonnegative relaxations of mixed-binary quadratic programs</h3>
     <p class="research-authors"><strong>Di Hou</strong>, Tianyun Tang, Kim-Chuan Toh.</p>
-    <p class="research-venue"><em>Operations Research</em> 74(3) (2025): 1626–1647.</p>
+    <p class="research-venue"><span class="journal-name">Operations Research</span> 74(3) (2025): 1626–1647.</p>
     <div class="research-links"><a href="https://arxiv.org/abs/2502.13849">arXiv</a> <a href="https://pubsonline.informs.org/doi/full/10.1287/opre.2024.1137">OR</a> <a href="https://github.com/HouDiOpt/RiNNAL">Code</a> <a href="/files/RiNNAL.pdf">Slides</a></div></li>
   <li><h3>A sparse smoothing Newton method for solving discrete optimal transport problems</h3>
     <p class="research-authors"><strong>Di Hou</strong>, Ling Liang, Kim-Chuan Toh.</p>
-    <p class="research-venue"><em>ACM Transactions on Mathematical Software</em> 50, no. 3 (2024): 1–26.</p>
+    <p class="research-venue"><span class="journal-name">ACM Transactions on Mathematical Software</span> 50, no. 3 (2024): 1–26.</p>
     <div class="research-links"><a href="https://arxiv.org/abs/2311.06448">arXiv</a> <a href="https://dl.acm.org/doi/full/10.1145/3688800">TOMS</a> <a href="/files/SqSN_pre.pdf">Slides</a></div></li>
   <li><h3>Block mirror stochastic gradient method for stochastic optimization</h3>
     <p class="research-authors">Jinda Yang, Haiming Song, Xinxin Li, <strong>Di Hou</strong>.</p>
-    <p class="research-venue"><em>Journal of Scientific Computing</em> 94, no. 3 (2023): 69.</p>
+    <p class="research-venue"><span class="journal-name">Journal of Scientific Computing</span> 94, no. 3 (2023): 69.</p>
     <div class="research-links"><a href="https://link.springer.com/article/10.1007/s10915-023-02110-y">JSC</a></div></li>
 </ol>
 

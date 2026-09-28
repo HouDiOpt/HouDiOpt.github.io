@@ -30,3 +30,13 @@
     .research-list { padding-left: 1.2em; }
   }
 }
+
+/* Highlight only journal names; bibliographic details retain their normal style. */
+.page__content .research-venue .journal-name {
+  color: #254e70;
+  font-weight: 600;
+  font-style: normal;
+}
+html[data-theme="dark"] .page__content .research-venue .journal-name {
+  color: #a8c9e8;
+}

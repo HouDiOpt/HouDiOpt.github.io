@@ -67,15 +67,15 @@ Research Software
 Recognitions
 ------
 <ul class="profile-rows">
-  <li><div><span class="profile-label">Top Graduate Researcher Award</span><span class="profile-detail">Faculty of Science, NUS</span></div><span class="profile-date">2026</span></li>
-  <li><div><span class="profile-label">Best Graduate Researcher Award</span><span class="profile-detail">Department of Mathematics, NUS</span></div><span class="profile-date">2026</span></li>
-  <li><div><span class="profile-label">Graduate Tutor Merit Award (Tier 1)</span><span class="profile-detail">NUS</span></div><span class="profile-date">2024, 2025, 2026</span></li>
+  <li><div><span class="profile-label">Top Graduate Researcher Award</span><span class="profile-detail">, Faculty of Science, NUS</span></div><span class="profile-date">2026</span></li>
+  <li><div><span class="profile-label">Best Graduate Researcher Award</span><span class="profile-detail">, Department of Mathematics, NUS</span></div><span class="profile-date">2026</span></li>
+  <li><div><span class="profile-label">Graduate Tutor Merit Award (Tier 1)</span><span class="profile-detail">, NUS</span></div><span class="profile-date">2024, 2025, 2026</span></li>
   <li><div><span class="profile-label">EASIAM 2026 Travel Award</span></div><span class="profile-date">2026</span></li>
-  <li><div><span class="profile-label">PhD Conference Award</span><span class="profile-detail">NUS</span></div><span class="profile-date">2025</span></li>
-  <li><div><span class="profile-label">President’s Graduate Fellowship</span><span class="profile-detail">NUS</span></div><span class="profile-date">2022–2026</span></li>
-  <li><div><span class="profile-label">Top Ten Undergraduate Student Award</span><span class="profile-detail">Changchun City, China</span></div><span class="profile-date">2022</span></li>
-  <li><div><span class="profile-label">Top Ten Undergraduate Student Award</span><span class="profile-detail">Jilin University, China</span></div><span class="profile-date">2022</span></li>
-  <li><div><span class="profile-label">National Scholarship</span><span class="profile-detail">China</span></div><span class="profile-date">2018–2022</span></li>
+  <li><div><span class="profile-label">PhD Conference Award</span><span class="profile-detail">, NUS</span></div><span class="profile-date">2025</span></li>
+  <li><div><span class="profile-label">President’s Graduate Fellowship</span><span class="profile-detail">, NUS</span></div><span class="profile-date">2022–2026</span></li>
+  <li><div><span class="profile-label">Top Ten Undergraduate Student Award</span><span class="profile-detail">, Changchun City, China</span></div><span class="profile-date">2022</span></li>
+  <li><div><span class="profile-label">Top Ten Undergraduate Student Award</span><span class="profile-detail">, Jilin University, China</span></div><span class="profile-date">2022</span></li>
+  <li><div><span class="profile-label">National Scholarship</span><span class="profile-detail">, China</span></div><span class="profile-date">2018–2022</span></li>
 </ul>
 
 Invited Talks
@@ -145,9 +145,9 @@ Service
 </ul>
 <h3>Other Services</h3>
 <ul class="profile-rows">
-  <li><div><span class="profile-label">President</span><span class="profile-detail"><a href="https://siamnus.github.io/website/">NUS SIAM Student Chapter</a></span></div><span class="profile-date">Jul. 2025 – Jul. 2026</span></li>
-  <li><div><span class="profile-label">Secretary</span><span class="profile-detail"><a href="https://siamnus.github.io/website/">NUS SIAM Student Chapter</a></span></div><span class="profile-date">Jul. 2024 – Jul. 2025</span></li>
-  <li><div><span class="profile-label">Vice president</span><span class="profile-detail"><a href="https://www.math.nus.edu.sg/pg/graduate-society/">NUS Mathematics Graduate Society</a></span></div><span class="profile-date">Jul. 2025 – Present</span></li>
+  <li><div><span class="profile-label">President</span><span class="profile-detail">, <a href="https://siamnus.github.io/website/">NUS SIAM Student Chapter</a></span></div><span class="profile-date">Jul. 2025 – Jul. 2026</span></li>
+  <li><div><span class="profile-label">Secretary</span><span class="profile-detail">, <a href="https://siamnus.github.io/website/">NUS SIAM Student Chapter</a></span></div><span class="profile-date">Jul. 2024 – Jul. 2025</span></li>
+  <li><div><span class="profile-label">Vice president</span><span class="profile-detail">, <a href="https://www.math.nus.edu.sg/pg/graduate-society/">NUS Mathematics Graduate Society</a></span></div><span class="profile-date">Jul. 2025 – Present</span></li>
 </ul>
 
 </div>

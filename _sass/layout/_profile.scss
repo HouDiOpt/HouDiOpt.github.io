@@ -43,3 +43,7 @@ html[data-theme="dark"] .page__content .research-venue .journal-name {
 
 /* Slightly quieter research titles; keep section and journal sizes unchanged. */
 .page__content .research-list h3 { font-size: .95em; }
+
+.page__content {
+  .profile-intro, .profile-contact, .profile-interests { font-size: .95em; }
+}

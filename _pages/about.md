@@ -8,13 +8,16 @@ redirect_from:
 ---
 
 I am currently a Research Fellow in the Department of Mathematics at National University of Singapore mentored by [Prof. Kim-Chuan Toh](https://blog.nus.edu.sg/mattohkc/). I obtained my Ph.D. degree in 2026 from the Department of Mathematics, NUS under the supervision of Prof. Kim-Chuan Toh, and received my B.S. degree from the Tang Aoqing Mathematics Honors Program at Jilin University in 2022. Here is my [CV](/files/CV_HouDi.pdf)
+{: .profile-intro}
 
 **Email:** dihou \[at\] u.nus.edu
+{: .profile-contact}
 
 Research Interests
 ------
 - Mathematical Optimization
 - Scientific Computing
+{: .profile-interests}
 
 Preprints
 ------

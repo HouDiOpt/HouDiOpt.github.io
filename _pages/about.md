@@ -13,7 +13,8 @@ I am currently a Research Fellow in the Department of Mathematics at National Un
 
 Research Interests
 ------
-My research focuses on mathematical optimization and scientific computing, particularly scalable algorithms for semidefinite and nonconvex optimization, convex relaxations, and certificate-based presolving. [[summary talk]](/files/RiNNAL-X.pdf)
+- Mathematical Optimization
+- Scientific Computing
 
 Preprints
 ------

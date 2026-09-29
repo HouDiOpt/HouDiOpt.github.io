@@ -22,6 +22,8 @@ Research Interests
 Preprints
 ------
 <ol class="research-list">
+  <li><h3>McADMM: A Multi-Clique Augmented Lagrangian-Based Algorithm for Large-Scale Sparse SDPs with Bound Constraints</h3>
+    <p class="research-authors">Kristo Lian, Nehal Shaikh, <strong>Di Hou</strong>, Xingyu Xie, Kim-Chuan Toh, submitted.</p></li>
   <li><h3>Sparsity-cone SDP relaxations and applications to variable fixing for sparse quadratic programs</h3>
     <p class="research-authors"><strong>Di Hou</strong>, Thai P.D. Nguyen, Kim-Chuan Toh, Guanyi Wang, submitted.</p>
     <div class="research-links"><a href="https://arxiv.org/abs/2606.22894">arXiv</a></div></li>

@@ -24,7 +24,8 @@ Preprints
 <p><sup>*</sup> Corresponding author.</p>
 <ol class="research-list">
   <li><h3>McADMM: A Multi-Clique Augmented Lagrangian-Based Algorithm for Large-Scale Sparse SDPs with Bound Constraints</h3>
-    <p class="research-authors">Kristo Lian, Nehal Shaikh, <strong>Di Hou</strong><sup>*</sup>, Xingyu Xie, Kim-Chuan Toh, submitted.</p></li>
+    <p class="research-authors">Kristo Nugraha Lian, Nehal Ahmed Shaikh, <strong>Di Hou</strong><sup>*</sup>, Xingyu Xie, Kim-Chuan Toh, submitted.</p>
+    <div class="research-links"><a href="https://arxiv.org/abs/2610.01503">arXiv</a></div></li>
   <li><h3>An inexact Halpern-accelerated preconditioned generalized proximal point algorithm for the maximal monotone inclusion problem</h3>
     <p class="research-authors">Lei Yang, Haihang Lan, <strong>Di Hou</strong><sup>*</sup>, Ling Liang, Kim-Chuan Toh, submitted.</p></li>
   <li><h3>A dual-certificate procedure for cut generation and presolving in polynomial optimization</h3>

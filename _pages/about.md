@@ -23,6 +23,9 @@ Preprints
 ------
 <p><sup>*</sup> Corresponding author.</p>
 <ol class="research-list">
+  <li><h3>A logarithmic-dual-update Bregman ADMM for optimal transport</h3>
+    <p class="research-authors"><strong>Di Hou</strong>, Kim-Chuan Toh.</p>
+    <div class="research-links"><a href="https://arxiv.org/abs/2610.08087">arXiv</a></div></li>
   <li><h3>McADMM: A Multi-Clique Augmented Lagrangian-Based Algorithm for Large-Scale Sparse SDPs with Bound Constraints</h3>
     <p class="research-authors">Kristo Nugraha Lian, Nehal Ahmed Shaikh, <strong>Di Hou</strong><sup>*</sup>, Xingyu Xie, Kim-Chuan Toh, submitted.</p>
     <div class="research-links"><a href="https://arxiv.org/abs/2610.01503">arXiv</a></div></li>

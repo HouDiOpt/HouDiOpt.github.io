@@ -21,7 +21,7 @@ Research Interests
 
 Preprints
 ------
-<p><sup>*</sup> Corresponding author.</p>
+<p>Manuscripts are available upon request. <sup>*</sup> Corresponding author.</p>
 <ol class="research-list">
   <li><h3>A logarithmic-dual-update Bregman ADMM for optimal transport</h3>
     <p class="research-authors"><strong>Di Hou</strong>, Kim-Chuan Toh.</p>

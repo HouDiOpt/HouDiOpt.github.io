@@ -100,6 +100,15 @@ Invited Talks
 <div class="invited-talks">
   <section class="talk-group">
     <div class="talk-heading">
+      <h3>Semidefinite relaxations and variable fixing for sparse quadratic programs</h3>
+      <a class="talk-slides" href="/files/SCSDP_PKU_2026.pdf" aria-label="Slides: Semidefinite relaxations and variable fixing for sparse quadratic programs">Slides</a>
+    </div>
+    <ul class="talk-venues">
+      <li><div class="talk-event"><span class="talk-venue">9th PKU Workshop for Outstanding PhD Students in Computational and Applied Mathematics</span><span class="talk-location">Peking University · Beijing, China</span></div><time datetime="2026-10">Oct. 2026</time></li>
+    </ul>
+  </section>
+  <section class="talk-group">
+    <div class="talk-heading">
       <h3>RiNNAL-X: Low-rank ALM for structured SDP relaxations</h3>
       <a class="talk-slides" href="/files/RiNNAL-X.pdf" aria-label="Slides: RiNNAL-X: Low-rank ALM for structured SDP relaxations">Slides</a>
     </div>
